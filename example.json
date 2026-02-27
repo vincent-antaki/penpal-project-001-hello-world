@@ -1,0 +1,7 @@
+{
+    "seed": 1337,
+    "num_lines": 200,
+    "width": 200,
+    "height": 200,
+    "circle_radius": 80
+}
